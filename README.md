@@ -1,0 +1,2 @@
+# home-automation
+Some notes 
